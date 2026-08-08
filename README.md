@@ -13,3 +13,4 @@ Nuestro proyecto de EventoFlower permitira al usuario registrarse y poder entrar
 **Juber javier intriago lucas**
 
 Estudiante de Computación en Línea, comprometido con el desarrollo de soluciones tecnológicas. En el proyecto EventoFlow participa en el diseño, desarrollo e implementación de la plataforma, aportando en la organización de funciones, programación y mejora de la experiencia del usuario.
+**Aporte de Juber para el grupo 9**
